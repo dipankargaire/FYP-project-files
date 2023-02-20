@@ -1,6 +1,8 @@
 # Prerequisites
 *.d
 *.mov
+*.mp4
+*.avi
 
 # Object files
 *.o
