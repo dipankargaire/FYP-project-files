@@ -1,0 +1,32 @@
+newmtl Object_4SG
+illum 4
+Kd 0.48 0.51 0.54
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.12 0.13 0.13
+Ns 23.00
+newmtl Object_5SG
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.01 0.01
+Ns 23.00
+newmtl Object_6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 62.00
+newmtl Object_7SG
+illum 4
+Kd 0.03 0.01 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.00 0.01
+Ns 98.00
